@@ -4,7 +4,7 @@ IT系の新卒就活をするうえで必要でない情報が氾濫する昨今
 
 ## 購読方法
 uBlock Originをインストール後、以下のURLを「フィルターリストを購読」に追加してください。
-https://raw.githubusercontent.com/HK416-Ger/JP-Job-Hunting-Filter/main/filter.txt
+https://raw.githubusercontent.com/HK416-Ger/JP-Tech-Job-Hunting-Filter/main/filter.txt
 
 ## 対象サイト
 - アフィリエイト目的の無名就活エージェントサイト
