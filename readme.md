@@ -13,6 +13,6 @@ https://raw.githubusercontent.com/HK416-Ger/JP-Tech-Job-Hunting-Filter/main/filt
 - ファクトチェックを名乗る低品質メディア
 - 就活不安を煽るブログ
 - 大手エージェント系サイト（ただし、マイナビやリクナビのような求人掲載サイトはリストから除外）
-- 
+
 ## ライセンス
 CC BY 4.0
